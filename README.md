@@ -2,9 +2,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning node
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 2595531421@qq.com
 
-skills
+-👍skills:
  
 <!---
 sun-xue-shi/sun-xue-shi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
