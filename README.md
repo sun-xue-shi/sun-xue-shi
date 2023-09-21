@@ -5,11 +5,11 @@
 - 📫 How to reach me: 2595531421@qq.com
 - 👍skills:
   <code><img height="20" src="./img/html.png" title="html" /></code>
-  <code><img height="20" src="./img/css.png" title="css&less" /></code>
-  <code><img height="20" src="./img/javascript.png" title="js" /></code>
-  <code><img height="20" src="./img/ts.png" title="ts" /></code>
-  <code><img height="20" src="./img/vue.png" title="Vue" /></code>
-  <code><img height="20" src="./img/elementplus.png" title="elementplus" /></code>
+  <code><img height="20" src="./img/css.png" title="html" /></code>
+  <code><img height="20" src="./img/javascript.png" title="html" /></code>
+  <code><img height="20" src="./img/ts.png" title="html" /></code>
+  <code><img height="20" src="./img/vue.png" title="html" /></code>
+  <code><img height="20" src="./img/elementplus.png" title="html" /></code>
 
 <!---
 sun-xue-shi/sun-xue-shi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
