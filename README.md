@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sun-xue-shi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning node
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 2595531421@qq.com
 - 👍skills:
   <code><img height="20" src="./img/html.png" title="html" /></code>
