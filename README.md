@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sun-xue-shi
-- 📫 How to reach me: sun_undefind@163.com
+- 📫 How to reach me: sun_undefined@163.com
 - 👍skills:
   <code><img height="20" src="./img/html.png" title="html" /></code>
   <code><img height="20" src="./img/css.png" title="html" /></code>
